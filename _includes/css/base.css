@@ -43,16 +43,38 @@
 	q:before, q:after {
 		content: '';
 		content: none; }
-	table {
-		border-collapse: collapse;
-		border-spacing: 0; }
-
+		table
+		{
+			font-family: "Lato", "Lucida Grande", Sans-Serif;
+			font-size: 14px;
+			margin: 0 auto;
+			width: 480px;
+			border-collapse: collapse;
+			text-align: left;
+		}
+		table th
+		{
+			font-size: 16px;
+			font-weight: normal;
+			color: #12121b;
+			padding: 10px 8px;
+			border-bottom: 2px solid #0c271c;
+		}
+		table td
+		{
+			color: #12121b;
+			padding: 9px 8px 0px 8px;
+		}
+		table tbody tr:hover td
+		{
+			color: #dbdce7;
+		}
 
 /* #Basic Styles
 ================================================== */
 	body {
 		background: #fff;
-		font: 14px/21px "Raleway" "HelveticaNeue-Light", Arial, sans-serif;
+		font: 14px/21px "Roboto" "HelveticaNeue-Light", Arial, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
