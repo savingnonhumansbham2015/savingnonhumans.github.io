@@ -17,4 +17,4 @@ For any information, please contact: Andrew Woodhall or Gabriel Garmendia da Tri
 
 Website Technical Support
  
-Gilson Olegario
+Gilson Olegario & Andrew Woodhall
