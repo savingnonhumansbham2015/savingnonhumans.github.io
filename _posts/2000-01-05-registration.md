@@ -7,7 +7,7 @@ fa-icon: envelope
 
 The conference is free and open to all – though registration via email confirming intent to attend will be required. Registration emails should be sent to: <savingnonhumansbham2015@gmail.com>
 
-For any information, please contact: Andrew Woodhall or Gabriel Garmendia da Trindade at any of the following email addresses:
+For any information, please contact: [Andrew Woodhall](https://bham.academia.edu/AndrewWoodhall) or [Gabriel Garmendia da Trindade](https://bham.academia.edu/GabrielGarmendia) at any of the following email addresses:
 
 <savingnonhumansbham2015@gmail.com>
 
