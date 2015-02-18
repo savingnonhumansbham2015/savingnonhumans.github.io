@@ -15,7 +15,7 @@ For any information, please contact: Andrew Woodhall or Gabriel Garmendia da Tri
 
 <gxg322@bham.ac.uk>
 
-[<img src="/img/FacebookSmall.png">](https://www.facebook.com/savingnonhumansbham2015/timeline)
+<a href="https://www.facebook.com/savingnonhumansbham2015/timeline"><img src="/img/FacebookSmall.png" border="0"></a>
 
 Website Technical Support
  
