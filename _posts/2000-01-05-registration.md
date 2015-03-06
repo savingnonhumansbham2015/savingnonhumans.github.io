@@ -19,6 +19,9 @@ For any information, please contact: [Andrew Woodhall](https://bham.academia.edu
 
 <a href="https://www.facebook.com/savingnonhumansbham2015/timeline"><img src="/img/FBSmall2.png" border="0"></a>   <a href="https://twitter.com/Savingnonhumans"><img src="/img/T1.png" border="0"></a>   <a href="http://philevents.org/event/show/17141"><img src="/img/PE2.png" border="0"></a>
 
-Website Technical Support
- 
-Gilson Olegario & Andrew Woodhall
+
+Website Technical Support:  Gilson Olegario & Andrew Woodhall
+
+Photography: Vinícius Diefenbach Gomes
+
+Design: Bernardo Goulart
