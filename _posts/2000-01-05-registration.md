@@ -5,7 +5,7 @@ color: black
 fa-icon: envelope
 ---
 
-Registration is now closed.
+Registration is now closed. (Names will be added to the waiting list, should space open)
 
 For any information, please contact: [Andrew Woodhall](https://bham.academia.edu/AndrewWoodhall) or [Gabriel Garmendia da Trindade](https://bham.academia.edu/GabrielGarmendia) at any of the following email addresses:
 
