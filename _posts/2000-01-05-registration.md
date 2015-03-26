@@ -5,7 +5,7 @@ color: black
 fa-icon: envelope
 ---
 
-Registration is now closed. (Names will be added to the waiting list, should space open)
+Registration has been REOPENED for a limited number of spaces that have just become available. Please register soon.
 
 For any information, please contact: [Andrew Woodhall](https://bham.academia.edu/AndrewWoodhall) or [Gabriel Garmendia da Trindade](https://bham.academia.edu/GabrielGarmendia) at any of the following email addresses:
 
